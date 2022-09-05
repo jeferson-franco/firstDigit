@@ -1,0 +1,20 @@
+{
+  "name": "firstdigit",
+  "version": "1.0.0",
+  "description": "Find the leftmost digit that occurs in a given string.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeferson-franco/firstDigit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeferson-franco/firstDigit/issues"
+  },
+  "homepage": "https://github.com/jeferson-franco/firstDigit#readme"
+}
